@@ -1,0 +1,5 @@
+# Codigo base de referencia (nao vai para o GitHub)
+base/
+
+# Dados gerados ao testar no XAMPP
+dados/*.txt
